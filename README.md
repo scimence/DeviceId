@@ -14,4 +14,6 @@
 # 
 # 扫码安装示例
 ![输入图片说明](https://raw.githubusercontent.com/scimence/DeviceId/master/pic/DeviceId.png "扫码安装示例")
-
+# 
+# DeviceId.jar相关资源下载：
+https://raw.githubusercontent.com/scimence/DeviceId/master/DeviceId_20191216.zip
